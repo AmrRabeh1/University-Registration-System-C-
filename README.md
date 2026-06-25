@@ -1,2 +1,19 @@
-# University-Registration-System-C-
-The University Registration System is a console-based application developed in C#. It simulates a simplified university environment where students, professors, and administrators interact with academic data through role-based functionalities. The project emphasizes clean software architecture and Object-Oriented Programming (OOP) principles.
+# University Registration System
+
+A console-based application simulating a university environment,
+built in C# using Object-Oriented Programming principles.
+
+## Features
+- Role-based access: Student, Professor, Administrator
+- Course enrollment and management
+- Academic data interaction via console interface
+
+## Tech Stack
+- Language: C#
+- Paradigm: OOP (Inheritance, Encapsulation, Polymorphism, Abstraction)
+- Platform: .NET Console Application
+
+## How to Run
+1. Clone the repo
+2. Open in Visual Studio
+3. Run Program.cs
